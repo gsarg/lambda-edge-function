@@ -1,0 +1,30 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "headers": {
+            "host": [
+              {
+                "value": "d123.cf.net",
+                "key": "Host"
+              }
+            ],
+            "authorization": [
+              {
+                "value": "Bearer eyJraWQiOiJRMU82b1ZXXC9TU29sT0pObmZQRG9wbGloWkRZRTlPR1hDazFRY0ljV3VUND0iLCJhbGciOiJSUzI1NiJ9.eyJhdF9oYXNoIjoiNFRrd0Z6QXdpMW5reHgyNlFkVlNOQSIsInN1YiI6ImYyZTViMzUyLTI5Y2QtNGMxMS1hMGExLTA3NGM4MDllNzBmZiIsImNvZ25pdG86Z3JvdXBzIjpbImdydXBvMSJdLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY29nbml0bzpwcmVmZXJyZWRfcm9sZSI6ImFybjphd3M6aWFtOjo5NjkyODEyMzY2NzQ6cm9sZVwvcm9vbEdydXBvMSIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xX2xZNXhUQTZLRiIsImNvZ25pdG86dXNlcm5hbWUiOiJnYXN0b24iLCJvcmlnaW5fanRpIjoiZDA0YjBjNzQtZGYxNi00MjEwLTllMjEtMjAzOWM2MTgyMjkzIiwiY29nbml0bzpyb2xlcyI6WyJhcm46YXdzOmlhbTo6OTY5MjgxMjM2Njc0OnJvbGVcL3Jvb2xHcnVwbzEiXSwiYXVkIjoiMXRrYWY2bm90b3JxZTFwb2NkcHA1MGo4bzMiLCJldmVudF9pZCI6ImYwNzNmYjhjLTk5N2UtNGYyMy05M2Q0LWI2MGM1YWYzMzM5MSIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjc2MTI4MTg1LCJleHAiOjE2NzYxMzE3ODUsImlhdCI6MTY3NjEyODE4NSwianRpIjoiYTNmNDYzMDAtMGU5MC00ZjdkLWFkNjQtNjAyZjliYWMwYTBjIiwiZW1haWwiOiJnYXN0b252ZXJkb2lhQGdtYWlsLmNvbSJ9.YTHDQFQSF5y-buawXiDbrWkgU3rPgatD2ceMy0tYFy3Lsy-JR5RTsQw4dmoFzN88l01jqsFSh0kabi3h20v9g5GOVkdTQLQH2d_aYD1RGv-3Cmmb2uCgaP0WWvfNdA5RJNjQwiojgBJQ3pjljjK-QX8K6_PbGK9jpfKFCM6Wd5qOxVJQGddE2DZPGBDbXYf-zhaaTYQLSgnUhDnKQMc23efbpMn8WqZJ2HFuhklEctALOW0mvb8go_li6YbvlWkdJixgr0Em16dLp1q4oL_NFUekaBjUAfM35P6gVNaYjpVuZP5g-g1lzdP7ayVfy7pElKVuafUrjoiWn64lCxC2eg",
+                "key": "Authorization"
+              }
+            ]
+          },
+          "clientIp": "2001:cdba::3257:9652",
+          "uri": "/experiment-pixel.jpg",
+          "method": "GET"
+        },
+        "config": {
+          "distributionId": "EXAMPLE"
+        }
+      }
+    }
+  ]
+}
